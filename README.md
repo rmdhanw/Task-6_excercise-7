@@ -38,7 +38,5 @@ This project demonstrates how to control multiple LEDs on an STM32 microcontroll
 3. **Execution:**  
    After flashing the code to the STM32 board, the LEDs will start blinking according to the intervals defined in the FreeRTOS tasks.
 
-## Conclusion:
-This project demonstrates how to use FreeRTOS on the STM32 to control multiple LEDs with different time intervals. It also illustrates the use of critical sections to ensure safe access to shared data between tasks running in parallel. By using FreeRTOS, we can efficiently manage multitasking on the STM32 and handle more operations simultaneously without conflicts.
 
 https://github.com/user-attachments/assets/e692a6ec-67e9-47fa-b6a1-27dd5458795a
